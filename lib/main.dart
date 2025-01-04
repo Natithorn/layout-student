@@ -38,13 +38,6 @@ class StudentApp extends StatelessWidget {
       imageUrl: 'assets/ramin.jpg', 
     ),
     Student(
-      firstName: 'Thanachok',
-      lastName: 'suwan',
-      studentId: 'ID-10003', 
-      gender: 'male',
-      imageUrl: 'assets/Thanachok.jpg', 
-    ),
-    Student(
       firstName: 'จันทิมา',
       lastName: 'พรมวัง',
       studentId: 'ID-10004',
